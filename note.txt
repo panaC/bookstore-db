@@ -1,0 +1,13 @@
+
+
+# downloaded from https://think.cs.vt.edu/corgis/csv/classics/
+
+
+wget -q -O data.csv "https://think.cs.vt.edu/corgis/datasets/csv/classics/classics.csv" 
+cat data.csv | head
+
+
+: '
+
+
+' 
